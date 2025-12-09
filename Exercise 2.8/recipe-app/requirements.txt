@@ -6,9 +6,9 @@ attrs==19.3.0
 backcall==0.1.0
 backports.zoneinfo==0.2.1
 beautifulsoup4==4.8.2
-black==19.10b0
+black==24.3.0
 bleach==6.1.0
-certifi==2023.7.22
+certifi==2024.7.4
 chardet==3.0.4
 click==7.1.1
 cloudinary==1.33.0
@@ -43,7 +43,7 @@ mistune==0.8.4
 mysql-connector-python==9.0.0
 mysqlclient==2.2.0
 nbconvert==5.6.1
-nbformat==5.0.4
+nbformat==7.16.4
 numpy==1.24.4
 openpyxl==3.0.3
 packaging==23.1
